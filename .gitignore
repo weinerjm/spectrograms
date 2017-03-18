@@ -1,0 +1,4 @@
+*.pyc
+.ipynb_checkpoints/
+Tetris_test.wav
+out*.wav
